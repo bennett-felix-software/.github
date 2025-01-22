@@ -1,4 +1,4 @@
-## BFS: Bennett and Felix Software
+## BFs: Bennett and Felix software
 
 We write only the most useful software
 
